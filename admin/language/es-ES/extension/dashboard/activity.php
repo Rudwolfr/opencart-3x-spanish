@@ -21,7 +21,7 @@ $_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> agregó un
 $_['text_activity_order_guest']    = '%s creó un <a href="order_id=%d">nuevo pedido</a>.';
 $_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> registró una cuenta afiliada.';
 $_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> actualizó sus detalles de afiliado.';
-$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> recibió comisión de una nuevo <a href="order_id=%d">pedido</a>.';
+$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> recibió comisión de un nuevo <a href="order_id=%d">pedido</a>.';
 
 // Entry
 $_['entry_status']                 = 'Estado';
