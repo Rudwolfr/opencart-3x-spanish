@@ -1,35 +1,44 @@
 <?php
 // Heading
-$_['heading_title']        = 'Log In with PayPal';
+$_['heading_title']					 = 'PayPal Payments Standard';
 
 // Text
-$_['text_extension']       = 'Extensions';
-$_['text_success']         = 'Success: You have modified Log In with PayPal module!';
-$_['text_edit']            = 'Edit Log In with PayPal Module';
-$_['text_button_grey']     = 'Grey';
-$_['text_button_blue']     = 'Blue (Recommended)';
+$_['text_extension']				 = 'Extensiones';
+$_['text_success']					 = 'Éxito: Has modificado detalles de cuenta de Paypal!';
+$_['text_edit']              = 'Editar PayPal Payments Standard';
+$_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorization']			 = 'Autorización';
+$_['text_sale']						 = 'Venta'; 
 
 // Entry
-$_['entry_client_id']      = 'Client ID';
-$_['entry_secret']         = 'Secret';
-$_['entry_sandbox']        = 'Sandbox Mode';
-$_['entry_debug']          = 'Debug Logging';
-$_['entry_customer_group'] = 'Customer Group';
-$_['entry_button']         = 'Button Colour';
-$_['entry_seamless']       = 'Allow "Seamless Checkout"';
-$_['entry_locale']         = 'Locale';
-$_['entry_return_url']     = 'Return URL';
-$_['entry_status']         = 'Status';
+$_['entry_email']					 = 'E-Mail';
+$_['entry_test']					 = 'Modo Sandbox';
+$_['entry_transaction']				 = 'Método de Transacción';
+$_['entry_debug']					 = 'Modo Debug';
+$_['entry_total']					 = 'Total';
+$_['entry_canceled_reversal_status'] = 'Estado Revocación Cancelada:';
+$_['entry_completed_status']		 = 'Estado Completado:';
+$_['entry_denied_status']			   = 'Estado Denegado:';
+$_['entry_expired_status']			 = 'Estado Caducado:';
+$_['entry_failed_status']			   = 'Estado Fallido:';
+$_['entry_pending_status']			 = 'Estado Pendiente:';
+$_['entry_processed_status']		 = 'Estado Procesado:';
+$_['entry_refunded_status']			 = 'Estado Devuelto:';
+$_['entry_reversed_status']			 = 'Estado Revocación:';
+$_['entry_voided_status']		     = 'Estado anulado:';
+$_['entry_geo_zone']				 = 'Geo Zona:';
+$_['entry_status']					 = 'Estado:';
+$_['entry_sort_order']			 = 'Orden de Aparición:';
+
+// Tab
+$_['tab_general']					 = 'General';
+$_['tab_order_status']     = 'Estatus de Òrden';
 
 // Help
-$_['help_sandbox']         = 'Use sandbox (testing) environment?';
-$_['help_customer_group']  = 'For new customers, which Customer Group should they get created as?';
-$_['help_debug_logging']   = 'Enabling this will allow data to be added to your error log to help debug any problems.';
-$_['help_seamless']        = 'Allows auto-login when customers choose PayPal Express Checkout. To use this, the option must be enabled in your Log in With PayPal account. You must also use the same account as the one used in Express Checkout.';
-$_['help_locale']          = 'This is the PayPal locale setting for your store languages';
-$_['help_return_url']      = 'This needs to be added in the PayPal app configuration under app redirect URLs.';
+$_['help_test']						 = '¿Usar el modeo en vivo o de prueba (sandbox) del servidor de puerta de enlaces para procesar transacciones?';
+$_['help_debug']			    	 = 'Registra infomraciòn adicional en el registro del sistema';
+$_['help_total']					 = 'El total del pedido debe alcanzarse antes de que este mètodo de pago se active';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify Log In with PayPal module!';
-$_['error_client_id']      = 'Client ID required!';
-$_['error_secret']         = 'Secret required!';
+$_['error_permission']				 = 'Advertencia: ¡Ustede debe tener permiso para modificar el pago Paypal!';
+$_['error_email']					 = '¡E-Mail obligatorio!';
