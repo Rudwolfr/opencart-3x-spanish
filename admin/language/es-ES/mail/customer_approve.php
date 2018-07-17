@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Your Account has been activated!';
-$_['text_welcome'] = 'Welcome and thank you for registering at %s!';
-$_['text_login']   = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service'] = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']  = 'Thanks,';
+$_['text_subject'] = '%s - Su cuenta ha sido activada!';
+$_['text_welcome'] = 'Bienvenido y gracias por registrarse en %s!';
+$_['text_login']   = 'Su cuenta ha sido creada y ahora puede entrar usando su dirección de correo electrónico y contraseña al visitar nuestra página o en la siguiente url:';
+$_['text_service'] = 'Una vez dentro, será capaz de acceder a otros servicios incluyendo pedidos pasados, imprimir facturas y editar la infomación de su cuenta.';
+$_['text_thanks']  = 'Gracias,';
