@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total Sales';
+$_['heading_title']    = 'Ventas Totales';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard sales!';
-$_['text_edit']        = 'Edit Dashboard Sales';
-$_['text_view']        = 'View more...';
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: ¡Ha modificado las ventas del tablero!';
+$_['text_edit']        = 'Editar Ventas del Tablero';
+$_['text_view']        = 'Ver más...';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Ordn de aparición';
+$_['entry_width']      = 'Ancho';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard sales!';
+$_['error_permission'] = 'Advertencia: ¡No tiene permiso de modificar las ventas del tablero!';
