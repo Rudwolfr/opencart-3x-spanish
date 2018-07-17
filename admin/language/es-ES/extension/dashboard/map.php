@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'World Map';
+$_['heading_title']    = 'Mapa Mundial';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard map!';
-$_['text_edit']        = 'Edit Dashboard Map';
-$_['text_order']       = 'Orders';
-$_['text_sale']        = 'Sales';
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = '¡Éxito: Ha modificado el mapa del tablero!';
+$_['text_edit']        = 'Editar Mapa del Tablero';
+$_['text_order']       = 'Pedidos';
+$_['text_sale']        = 'Ventas';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Aparición';
+$_['entry_width']      = 'Ancho';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard map!';
+$_['error_permission'] = 'Advertencia: No tiene permiso para modificar el mapa del trablero!';
