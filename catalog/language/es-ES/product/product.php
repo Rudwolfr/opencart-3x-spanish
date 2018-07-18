@@ -1,13 +1,13 @@
 <?php
 $_['text_search'] 	=  'Buscar';
 $_['text_brand'] 	=  'Marca';
-$_['text_manufacturer'] 	=  'Marca:';
+$_['text_manufacturer'] 	=  'Fabricante:';
 $_['text_model'] 	=  'Código de producto:';
 $_['text_reward'] 	=  'Puntos de recompensa:';
 $_['text_points'] 	=  'Precio en puntos de recompensa:';
 $_['text_stock'] 	=  'Disponibilidad:';
 $_['text_instock'] 	=  'En stock';
-$_['text_tax'] 	=  'Ex impuestos:';
+$_['text_tax'] 	=  'Sin impuestos:';
 $_['text_discount'] 	=  'o más';
 $_['text_option'] 	=  'Opciones Disponibles';
 $_['text_minimum'] 	=  'Este producto tiene una cantidad mínima de %s';
