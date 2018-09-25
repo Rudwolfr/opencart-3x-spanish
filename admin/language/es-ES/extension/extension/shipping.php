@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = 'Shipping';
+$_['heading_title']    = 'Recoger en Tienda';
 
 // Text
-$_['text_success']      = 'Success: You have modified shipping!';
-$_['text_list']         = 'Shipping List';
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: Ha modificado recoger en Tienda!';
+$_['text_edit']        = 'Editar Recoger en Tienda';
 
-// Column
-$_['column_name']       = 'Shipping Method';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Entry
+$_['entry_geo_zone']   = 'Geo Zona';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden del Pedido';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
+$_['error_permission'] = 'Advertencia: ¡No tiene permiso para modificar recoger en tienda!';
