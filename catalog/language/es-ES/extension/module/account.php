@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Cuenta';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'Registrar';
+$_['text_login']       = 'Loguearse';
+$_['text_logout']      = 'Salir';
+$_['text_forgotten']   = 'Contraseña Olvidada';
+$_['text_account']     = 'Mi cuenta';
+$_['text_edit']        = 'Editar Cuenta';
+$_['text_password']    = 'Contraseña';
+$_['text_address']     = 'Libro de Direcciones';
+$_['text_wishlist']    = 'Favoritos';
+$_['text_order']       = 'Historial de Pedidos';
+$_['text_download']    = 'Descargar';
+$_['text_reward']      = 'Puntos de Recompensa';
+$_['text_return']      = 'Devoluciones';
+$_['text_transaction'] = 'Transacciones';
+$_['text_newsletter']  = 'Noticias';
+$_['text_recurring']   = 'Pagos Recurrentes';
