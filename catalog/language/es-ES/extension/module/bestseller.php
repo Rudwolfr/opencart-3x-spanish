@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Bestsellers';
+$_['heading_title'] = 'Los Más Vendidos';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';
+$_['text_tax']      = 'Sin IVA:';
